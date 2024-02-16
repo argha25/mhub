@@ -2,8 +2,7 @@
 ## Website development
 
 # 02/16 (Friday)
-1. Explored database to use
-# Notes
+# 1. Explored database to use
 # MongoDB:
  Document-Oriented, NoSQL database.
  For storing and querying documents. 
@@ -18,6 +17,5 @@
  Dealing with time-series data and require high write throughput and specialized querying capabilities - InfluxDB.
  General-purpose database with flexible data modeling and querying capabilities : MongoDB.
 
-2. Only show Home, Login and Contact Us. When the user logs in, show the rest of the features
-   # node.js
-   # python 
+# 2. Only show Home, Login and Contact Us. When the user logs in, show the rest of the features
+# html+css+js
