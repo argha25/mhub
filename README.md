@@ -19,3 +19,7 @@
 
 # 2. Only show Home, Login and Contact Us. When the user logs in, show the rest of the features
 # html+css+js
+
+# 03/18 (Friday)
+# 1. Created JS code and connected login page to MongoDB server
+# 2. Need to create feature to show only home, login and contact until connected in the main page
